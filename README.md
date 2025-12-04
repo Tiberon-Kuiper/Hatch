@@ -8,7 +8,7 @@
 - [FAQ](#faq)
 
 ### Installeren
-1. Download `HatchInstaller.pkg`.
+1. Download `HatchInstaller.pkg` in de releases tab of via deze [link](https://github.com/Tiberon-Kuiper/Hatch/releases/download/1.0.0/HatchInstaller.pkg).
 2. Dubbelklik `HatchInstaller.pkg`.
 3. Krijg je de melding dat het bestand niet geopend kan worden? Klik **OK** en open **Instellingen → Privacy & beveiliging** (zie afbeelding).
 ![security](assets/security.png)
